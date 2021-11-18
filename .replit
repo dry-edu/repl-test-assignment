@@ -1,2 +1,4 @@
 run = "javac *.java && java Main"
 language = "java10"
+
+entryPoint = "Main.java"
